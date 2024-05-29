@@ -12,6 +12,13 @@ _A Project Based On Python_
 |-------|-------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="Vscode" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/spyder/spyder-original.svg" title="Spyder" alt="Spyder" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/spyder/spyder-original.svg" title="Spyder" alt="Spyder" width="55" height="55"/>|
 
+## Data Manipulation and File Handling
+
+|Jupyter|
+|-------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|
+
+## Project Description 
 **1. Introduction:**
 
 The Online Shopping System is a Python-based application that simulates an online shopping platform where users can browse products, place orders, and track their orders. The system is designed to serve both customers and administrators, providing a seamless shopping experience and efficient management of product inventory and orders.
@@ -50,17 +57,7 @@ The Online Shopping System is a Python-based application that simulates an onlin
     
   - Sensitive information such as admin credentials is stored securely and not hard-coded in the source code.
 
-**4. Technologies Used:**
-
-- **Python:** The core programming language used for implementing the application logic.
-  
-- **CSV Module:** Utilized for reading and writing data to CSV files, facilitating data storage and retrieval.
-  
-- **Random Module:** Employed for generating unique order IDs for each transaction.
-  
-- **Tabulate Module:** Utilized for formatting and displaying tabular data in a structured manner.
-
-**5. Future Enhancements:**
+**4. Future Enhancements:**
 - **Database Integration:** Migrate from CSV files to a database management system for improved scalability and performance.
   
 - **Graphical User Interface (GUI):** Develop a GUI-based interface to enhance user experience and visual appeal.
@@ -68,9 +65,8 @@ The Online Shopping System is a Python-based application that simulates an onlin
 - **Payment Integration:** Integrate payment processing functionality to enable secure online transactions.
   
 - **Order Management System:** Implement a comprehensive order management system to handle order processing, tracking, and fulfillment.
-**6.Source Code Details**
-Here's a brief point-wise description of the code.
-# Source Code Details 
+
+## Source Code Details 
 1. **Imports:**
    - The code imports necessary modules: `csv` for CSV file handling, `randint` from `random` module to generate random order IDs, and `tabulate` for tabular data formatting.
 
@@ -129,10 +125,10 @@ Make sure you have Python installed on your system. You can download it from [Py
      ```
 
 4. **Run the Main Python Script:**
-   - In the same terminal or command prompt, navigate to the directory containing your Python script (`sourcecode.py`).
+   - In the same terminal or command prompt, navigate to the directory containing your Python script (`main.py`).
    - Run the script using the following command:
      ```bash
-     sourcecode.py
+     main.py
      ```
 
 5. **Choose User Type:**
